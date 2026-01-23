@@ -1,0 +1,7 @@
+
+1/1 point - Initial comments*
+2/2 points - Use of the print() function to display a welcome and prompt a question to the user.
+2/2 points - Use of the input() function and store in a variable called userInput.
+1/1 point - Use the print() function to print the contents of userInput.
+2/2 points - Use two different math operators from Table 1-1 in your script. This may be used to manipulate some input from the user.
+2/2 points - Use string concatenation.
