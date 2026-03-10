@@ -1,5 +1,15 @@
 # Author: Daniel Obazee
-# INF360 Programming with Python
+
+'''
+
+INF360 - Programming in Python
+
+Assignment 1
+
+
+
+'''
+
 print('Welcome to python basics')
 userInput= input("What is your name: ")
 print("Welcome" + " " + userInput)
